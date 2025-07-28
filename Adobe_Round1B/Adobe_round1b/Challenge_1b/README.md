@@ -152,7 +152,10 @@ docker build -t challenge1b-solution .
 
 Run the Analyzer
 docker run --rm -v "$(pwd)/input:/app/input" -v "$(pwd)/output:/app/output" challenge1b-solution python main.py
+
+
 or
+
 docker run -v "${PWD}:/app" challenge1b-solution python main.py 
 
 **Note**: This README provides a brief overview of the Challenge 1b solution structure based on available sample data. 
