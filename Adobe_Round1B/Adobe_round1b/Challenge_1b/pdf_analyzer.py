@@ -47,7 +47,7 @@ def extract_sections_from_pdf(pdf_path_str):
 
         # === Fallback: Flat PDFs ===
         if not found_headings:
-            logging.info(f"ℹ️ No headings in {os.path.basename(pdf_path_str)}, using paragraph fallback.")
+            logging.info(f" No headings in {os.path.basename(pdf_path_str)}, using paragraph fallback.")
             sections = []
             for page_num, page in enumerate(doc, 1):
                 text = page.get_text().strip()
