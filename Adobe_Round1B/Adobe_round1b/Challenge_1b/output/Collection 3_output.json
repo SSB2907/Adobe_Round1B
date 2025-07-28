@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-27T12:40:55.937496",
+    "processing_time_seconds": 30.37
+  },
+  "sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "section_title": "Beef Tacos",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 7,
+      "section_title": "Chicken Fajitas",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 3,
+      "section_title": "Albondigas",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "section_title": "Salade Niçoise",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 8,
+      "section_title": "Vegetable Lasagna",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients:  1 pound ground beef  1 small onion, diced  2 cloves garlic, minced  1 packet taco seasoning  1/2 cup water  Taco shells or tortillas  Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:  In a skillet, cook ground beef over medium heat until browned.  Add diced onion and minced garlic, sauté until softened.  Stir in taco seasoning and water, simmer until thickened.  Serve beef mixture in taco shells or tortillas with desired toppings.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients:  1 pound chicken breast, sliced  1 bell pepper, sliced  1 small onion, sliced  2 tablespoons fajita seasoning  2 tablespoons vegetable oil  Tortillas for serving  Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:  In a large skillet, heat vegetable oil over medium heat.  Cook sliced chicken, bell pepper, and onion until chicken is cooked through and vegetables are tender.  Stir in fajita seasoning and cook for an additional 2 minutes.  Serve chicken and vegetables in tortillas with desired toppings.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " Ingredients : o 1/2 pound ground beef o 1/2 pound ground pork o 1 small onion o 2 cloves garlic o 1/4 cup breadcrumbs o 1 egg o 1 teaspoon paprika o 1 teaspoon salt o 1/2 teaspoon pepper o 1/4 cup olive oil o 1 cup tomato sauce  Instructions : o Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten egg, paprika, salt, and pepper in a bowl. o Form mixture into meatballs. o Heat olive oil in a pan and brown meatballs on all sides. o Add tomato sauce and simmer for 20 minutes. o Serve warm.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": " Ingredients : o 4 tomatoes o 1 cucumber o 1 small red onion o 1/4 cup olives o 1/4 cup green beans o 2 hard-boiled eggs o 1 can tuna o 1/4 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon Dijon mustard o 1 teaspoon salt  Instructions : o Dice tomatoes and cucumber, slice red onion. o Blanch green beans until tender. o Arrange tomatoes, cucumber, onion, green beans, olives, and tuna on a plate. o Quarter hard-boiled eggs and add to the salad. o Whisk olive oil, vinegar, mustard, and salt, then drizzle over the salad. o Toss gently and serve.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients:  1 pound ground beef  1/2 pound ground pork  1 small onion, diced  2 cloves garlic, minced  1/2 cup breadcrumbs  1/4 cup milk  1 egg, beaten  1/4 cup ketchup  1 tablespoon Worcestershire sauce  1 teaspoon salt  1/2 teaspoon pepper Instructions:  Preheat oven to 350°F (175°C).  In a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper.  Shape the mixture into a loaf and place in a baking dish.  Bake for 1 hour until cooked through.  Let rest before slicing and serving.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients:  1 pound ground beef  1 small onion, diced  2 cloves garlic, minced  1 carrot, grated  1 celery stalk, diced  1 can (28 ounces) crushed tomatoes  1/4 cup tomato paste  1/2 cup red wine (optional)  1 teaspoon dried oregano  1 teaspoon dried basil  Salt and pepper to taste  Spaghetti for serving  Grated Parmesan cheese for garnish Instructions:  In a large skillet, cook ground beef over medium heat until browned.  Add diced onion, minced garlic, grated carrot, and diced celery, sauté until vegetables are tender.  Stir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and pepper.  Simmer for 30 minutes, stirring occasionally.  Cook spaghetti according to package instructions.  Serve Bolognese sauce over spaghetti, garnished with grated Parmesan cheese.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " Ingredients : o Assorted cured meats (salami, prosciutto) o Cheeses (mozzarella, provolone) o Olives o Marinated vegetables (artichokes, peppers) o Breadsticks  Instructions : o Arrange meats, cheeses, olives, and vegetables on a platter. o Serve with breadsticks.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients:  9 lasagna noodles, cooked  1 small onion, diced  2 cloves garlic, minced  1 zucchini, sliced  1 bell pepper, diced  1 cup spinach, chopped  1 jar (24 ounces) marinara sauce  1 can (15 ounces) ricotta cheese  1 egg  1 cup shredded mozzarella cheese  1/4 cup grated Parmesan cheese  2 tablespoons olive oil  Salt and pepper to taste Instructions:  Preheat oven to 375°F (190°C).  In a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper until tender. Add spinach and cook until wilted.  In a bowl, mix ricotta cheese, egg, salt, and pepper.  In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta mixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers.  Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese.  Cover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes until bubbly.  Let stand for 10 minutes before serving.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients:  4 cups chicken broth  1/4 cup soy sauce  2 tablespoons miso paste  2 cloves garlic, minced  1 piece ginger, sliced  1/2 pound pork belly, sliced  4 eggs, soft-boiled  8 ounces ramen noodles  Sliced green onions, nori, and sesame seeds for garnish Instructions:  In a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced ginger to a boil.  Reduce heat and simmer for 20 minutes.  In a skillet, cook sliced pork belly until crispy.  Cook ramen noodles according to package instructions.  Divide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green onions, nori, and sesame seeds.  Serve immediately.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 2 large eggs • 1/4 cup shredded cheese • 1/4 cup cooked sausage or bacon • 1/4 cup diced bell pepper • 1/4 cup diced onions • 2 small flour tortillas • Salsa for serving Instructions: • In a bowl, whisk the eggs and cook them in a skillet over medium heat. • Add cheese, sausage or bacon, onions and bell pepper to the eggs. • Cook until the eggs are set and the vegetables are tender. • Divide the egg mixture between the tortillas. • Serve with salsa.",
+      "page_number": 6
+    }
+  ]
+}

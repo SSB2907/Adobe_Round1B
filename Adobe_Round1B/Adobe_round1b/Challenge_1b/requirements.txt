@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+sentence-transformers==2.2.2
+huggingface_hub<=0.16.4
+PyMuPDF==1.24.1
+numpy<2.0
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+scikit-learn
+scipy
+nltk
